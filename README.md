@@ -17,3 +17,7 @@
 * I explore it with help of new parameter Density
 
 ![]()
+
+# Then I use Linear Regression Model on my dataset to create predictions and all was fitting perfectly
+
+![]()
