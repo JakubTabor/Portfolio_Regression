@@ -4,3 +4,16 @@
 
 # In my case I use Regression model to exploit correlation between some features in my data
 * First I built correlation between features
+
+![]()
+
+# Then plot the most interestiong them on graph
+
+* I was digging deeper and found unexpected pattern in my data (Correlation between Temperature and Salinity)
+
+![]()
+
+
+* I explore it with help of new parameter Density
+
+![]()
