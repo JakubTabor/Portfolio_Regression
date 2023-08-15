@@ -1,5 +1,6 @@
 # When we notice linear relationship pattern in our data we can use Linear model to generate predictions
-* We can use this in so many cases np: behavior of the stock market, Sports Performance, business growth.
+* We can use this in so many cases np: behavior of the stock market, Sports Performance, business growth
+* It can be use to examine the differences between features in data, because some kinds of data fits better than others.
 * This type of examination is common in scientific tests e.g: role of statistics in clinical trial in the drug approval
 
 # In my case I use Regression model to exploit correlation between some features in my data
