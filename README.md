@@ -5,7 +5,7 @@
 # In my case I use Regression model to exploit correlation between some features in my data
 * First I built correlation between features
 
-![]()
+![](https://github.com/JakubTabor/Portfolio_Regression/blob/main/Images/correlation.png)
 
 # Then plot the most interestiong them on graph
 
