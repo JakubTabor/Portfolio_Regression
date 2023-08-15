@@ -11,7 +11,7 @@
 
 * I was digging deeper and found unexpected pattern in my data (Correlation between Temperature and Salinity)
 
-![]()
+![](https://github.com/JakubTabor/Portfolio_Regression/blob/main/Images/data_plot.png)
 
 
 * I explore it with help of new parameter Density
