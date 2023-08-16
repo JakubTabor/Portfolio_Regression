@@ -17,7 +17,7 @@
 
 * I explore it with help of new parameter Density
 
-![]()
+![](https://github.com/JakubTabor/Portfolio_Regression/blob/main/Images/density_STheta_plot.png)
 
 # Then I use Linear Regression Model on my dataset to create predictions and all was fitting perfectly
 
