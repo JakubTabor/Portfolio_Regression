@@ -21,4 +21,4 @@
 
 # Then I use Linear Regression Model on my dataset to create predictions and all was fitting perfectly
 
-![]()
+![](https://github.com/JakubTabor/Portfolio_Regression/blob/main/Images/regression_model.png)
